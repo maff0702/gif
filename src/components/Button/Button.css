@@ -1,0 +1,28 @@
+.button {
+  width: 40px;
+  height: 100%;
+  border: 0;
+  background-color: rgb(224, 217, 217, 0.6);
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: 20px 20px;
+  border-radius: 2px;
+  padding: 0;
+  cursor: pointer;
+  transition: all 0.6s ease;
+}
+
+.button_type_show-more {
+  width: 100%;
+  max-width: 60px;
+  background-color: transparent;
+  min-height: 60px;
+  background-image: url(../../images/arrows-more.svg);
+  background-size: 50px 50px;
+}
+
+.button:hover {
+  background-color: transparent;
+  scale: 1.4;
+}
