@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://danieledefoe.github.io/gifs-application/",
+  "homepage": "https://maff0702.github.io/gif/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
